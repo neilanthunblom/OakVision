@@ -1,0 +1,8 @@
+Save.txt
+Application/out
+secrets.py
+settings.json
+*.pyc
+test.py
+__pycache__
+Application/Trainer

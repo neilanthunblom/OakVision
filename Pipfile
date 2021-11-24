@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "OakVision"
+
+[packages]
+opencv-python = "*"
+twilio = "*"
+picamera = "*"
+numpy = "*"
+ftpretty = "*"
+mysql-connector-python = "*"
+imutils = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
