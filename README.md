@@ -1,4 +1,4 @@
-# OakVision
+# OakVision ras pi computer vision cam
 
 Getting Started:
     1. Run pip install pipenv (If pipenv is not alredy installed)
